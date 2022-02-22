@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An impartial relation of the surrender and delivery of the famous city of Dublin to the French by the late King James with some great and remarkable passages, which happened betwixt Teague O Regan and the English General, at the surrender, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27588</idno>
+            <idno type="STC">Wing B213</idno>
+            <idno type="STC">ESTC R17475</idno>
+            <idno type="EEBO-CITATION">11932782</idno>
+            <idno type="OCLC">ocm 11932782</idno>
+            <idno type="VID">51163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 50:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An impartial relation of the surrender and delivery of the famous city of Dublin to the French by the late King James with some great and remarkable passages, which happened betwixt Teague O Regan and the English General, at the surrender, &amp;c.</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 2: W.B.</note>
+                  <note>"Licensed May 22d. J. Fraiser. 1690. And entered according to order"</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Advertisement on p. 2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Dublin (Ireland) --  History, Military.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="newsbook">
+            <pb n="1" facs="tcp:51163:1" rendition="simple:additions"/>
+            <head>An Impartial RELATION OF THE Surrender and Delivery OF THE <hi>Famous City of Dublin. To the French,</hi> BY THE Late King James. WITH Some Great and Remarkable Paſſages, Which happened betwixt <hi>Teague O Regan,</hi> and the <hi>Engliſh General,</hi> at the Sur<g ref="char:EOLhyphen"/>render, <hi>&amp;c.</hi>
+            </head>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed, <hi>May</hi> 22d. 1690.</p>
+                  <closer>
+                     <signed>J. Fraiſer.</signed>
+                  </closer>
+                  <postscript>
+                     <p>And Entered according to Order.</p>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>SIR,</p>
+            <p>THE Veſſels that arrive here daily, furniſh us with good News, from all parts of <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> and whatever is con<g ref="char:EOLhyphen"/>firmed by credible Perſons, aſſure your ſelf, I ſhall communicate to you the next Poſts.</p>
+            <p>From <hi>Dublin</hi> we are informed, that the Late King <hi>James,</hi> has delivered that Ci<g ref="char:EOLhyphen"/>ty over to the <hi>French</hi> King, by giving the Keys of the Caſtle of <hi>Dublin,</hi> and the Gity Gates, to <hi>French</hi> Commanders in chief; and by mounting and diſmoun<g ref="char:EOLhyphen"/>ting the Guards, with the <hi>French</hi> Soldi<g ref="char:EOLhyphen"/>ers; the <hi>Iriſh</hi> being rejected, or eaſed of that trouble; ſo that the Caſe of the whole Inhabitants of that City is to be lamented; the Engliſh and Proteſtants being compelled to give Free Quarters to the <hi>French;</hi> and the Papiſh Inhabi<g ref="char:EOLhyphen"/>tants, to thoſe of the <hi>Iriſh</hi> Soldiers, that are yet remaining there.</p>
+            <p>King <hi>James</hi> has alſo ſeized on all the Brewers Malt; and in every Brew-Houſe
+<pb n="2" facs="tcp:51163:2"/> has placed Officers of the Army; and ſtrictly ordered, that none of the Liquor ſhall be ſold, but all brewed for the uſe of the Army; and has laid his Commands on them, to ſell him their Beer Five Shil<g ref="char:EOLhyphen"/>lings in the Barrel cheaper, than former<g ref="char:EOLhyphen"/>ly they did; (notwithſtanding his Cop<g ref="char:EOLhyphen"/>per Payments:) The <hi>French</hi> are highly diſſatisfied with the <hi>Iriſh</hi> in <hi>Dublin,</hi> vil<g ref="char:EOLhyphen"/>lifying, and calling them a Thouſand Cowardly Rogues; urging, That they could not keep their own Country, but that <hi>They</hi> (meaning the <hi>French)</hi> muſt be ſent for, and expoſed to all hardſhips, through their Cowardize.</p>
+            <p>From <hi>Newry,</hi> in the North of <hi>Ireland,</hi> we are informed as followeth, That Collonel <hi>Stewart</hi> went lately to the Walls of <hi>Dundalk,</hi> and ſeeing no pro<g ref="char:EOLhyphen"/>bability of Oppoſition, he went far<g ref="char:EOLhyphen"/>ther, and ſeized on One Thouſand Head of Black Cattle; and cauſed them to be drove by <hi>Dundalk:</hi> And that the <hi>Iriſh</hi> might not think he came purely for the Prey, the worthy Collonel ſends them a Trumpeter, to tell rhem, That he came not to ſteal their Cattle, but took them fairly; and if they were ſo diſpoſed, they might come and Reſcue them, or receive Payment for them. But ſo great was the damp on their Spi<g ref="char:EOLhyphen"/>rits, that though there were Three Re<g ref="char:EOLhyphen"/>giments in the Town, not one of them came out, nor ſo much as made one Shot from the Walls, but ſuffered the Collonel to carry off his Prey, without the leaſt Interruption; and ſince that, the <hi>Iriſh,</hi> as we are credibly imformed, have deſerted <hi>Dundalk, Atherdee,</hi> and <hi>Carlingford.</hi>
+            </p>
+            <p>We have likewiſe a Confirmation of the actual Surrender of <hi>Charlement.</hi> And that the Governour, <hi>Teige O Regan,</hi> when he took his leave (with the Com<g ref="char:EOLhyphen"/>mander in Chief of the Engliſh Forces there) deſired, that one thing might be granted him; which was, <hi>That he might carry King</hi> James <hi>one of the Braſs Guns, which they left in the Caſtle;</hi> which the General much wondered at, after the Articles and Surrender had paſſed, ſay<g ref="char:EOLhyphen"/>ing, I <hi>know no uſe you can make of it, unleſs it be to Coin Braſs Money.</hi> To which Mr. Governour <hi>Teige</hi> Anſwered, <hi>Be mee Shoul Ioy, I believe your Grace is in the true of it.</hi>
+            </p>
+            <p>And now, to conclude, from the above Particulars, in all probability, when, and whereſoever our Army Approaches, the <hi>Iriſh</hi> will either Deſert or Submit, rather than truckle to the <hi>French</hi> Ty<g ref="char:EOLhyphen"/>ranny, and Abſolute Power; which that that they may do, is the earneſt Deſire of,</p>
+            <closer>
+               <signed>Your Aſſured Friend, and Servant, W. B.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>CAtaſtrophe Galliae, &amp; Hiberniae Re<g ref="char:EOLhyphen"/>ſtitutio.</hi> An Impartial Judgment, denoting the Reduction of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> this Revolution 1690. With the Conquering of <hi>Lewis</hi> XIV. preſent King of <hi>France,</hi> by His Sacred Majeſty King William III. Prophetically Deduced from the Characters of Heaven. Likewiſe, the Planets Attributes, according to the Doctrine of <hi>Hermes.</hi> With a Philoſophi<g ref="char:EOLhyphen"/>cal Diſcourſe of the four Elements, and the Nature and Powerful Influences of the Heavenly Bodies. Alſo, A modeſt De<g ref="char:EOLhyphen"/>fence of Prophecy, demonſtrated from the Ten <hi>Sybils,</hi> and of their wonderful Predictions of our Bleſſed Saviour, long before his Birth. To which is added, <hi>Scutica Gadburiana,</hi> or, A Whip for that Scorpioniſt <hi>Gadbury.</hi> Printed and are to be Sold by <hi>Tho. Howkins,</hi> in <hi>George<g ref="char:punc">▪</g>Yard,</hi> in <hi>Lombard<g ref="char:punc">▪</g> Street.</hi> 1690.</p>
+         </div>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> R. Hayhurſt, <hi>in</hi> Little Britain.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
